@@ -9,6 +9,8 @@ public class TestaPerformace {
 
     public static void main(String[] args) {
         Collection<Integer> numeros = new HashSet<Integer>();
+//        Collection<Integer> numeros = new ArrayList<Integer>();
+
 
         long inicio = System.currentTimeMillis();
 
