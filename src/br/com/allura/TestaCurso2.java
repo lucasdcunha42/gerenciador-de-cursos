@@ -42,5 +42,6 @@ public class TestaCurso2 {
 
         Set<Aluno> alunos = javaCollections.getAlunos();
 
+
     }
 }
